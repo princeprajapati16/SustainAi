@@ -145,8 +145,3 @@ npm start
 
 ---
 
-# 👨‍💻 Developed By
-
-Prince Prajapati
-
-```
